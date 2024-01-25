@@ -1,4 +1,4 @@
-let nilai = 85;
+let nilai = 95;
 
 if (nilai > 85 &&  nilai < 100){
     console.log('A')
